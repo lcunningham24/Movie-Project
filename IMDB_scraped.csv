@@ -1,4 +1,4 @@
-,Movie Title,Gross Revenue ($),Genre
+,Movie Title,Gross Revenue (USD),Genre
 0,Star Wars: Episode VII - The Force Awakens,"$936,662,225","Action, Adventure, Sci-Fi"
 1,Avengers: Endgame,"$858,373,000","Action, Adventure, Drama"
 2,Black Panther,"$700,059,566","Action, Adventure, Sci-Fi"
@@ -4994,8 +4994,8 @@
 4992,Grass,"$7,447",Drama
 4993,Women Superstars Uncensored WSU Breaking Barriers 5,"$7,440",Documentary
 4994,Policeman,"$7,379",Documentary
-4995,Big Words,"$7,371",blank
-4996,False Confessions,"$7,361",blank
-4997,The Dry Land,"$7,351",blank
-4998,Big Time: Historien om Bjarke Ingels,"$7,347",blank
-4999,Vision Portraits,"$7,330",blank
+4995,Big Words,"$7,371","Comedy, Drama"
+4996,False Confessions,"$7,361","Comedy, Drama"
+4997,The Dry Land,"$7,351",Drama
+4998,Big Time: Historien om Bjarke Ingels,"$7,347",Documentary
+4999,Vision Portraits,"$7,330",Documentary
